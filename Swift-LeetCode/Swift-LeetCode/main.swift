@@ -9,8 +9,10 @@ import Foundation
 
 print("Hello, World!")
 
-var nums = [4,5];
-var length = removeElement(&nums, 5);
+//var nums = [4,5];
+//var length = removeElement(&nums, 5);
 
-print(nums, length)
+//print(nums, length)
+
+runTestAddTwoNumbers()
 
